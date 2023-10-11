@@ -18,4 +18,11 @@ body {
     a:hover {
     text-decoration: underline;
     }
-    
+
+.cent{
+    text-align: center;
+}
+
+h1{
+    color:cornflowerblue;
+}
